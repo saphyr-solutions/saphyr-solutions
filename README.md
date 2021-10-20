@@ -1,0 +1,3 @@
+Saphyr Solutions est une société informatique composée d’une équipe de 5 passionnés entre 20 et 45 ans, qui cumulent plus de 35 ans d’expérience dans le domaine du logiciel de gestion d'entreprise.
+
+Logiciels de gestion de stock, de suivi de production, de gestion d'évènements, de processus métiers spécifiques... Après avoir développé, installé et livré des centaines de logiciels spécialisés chez nos clients au fil des années, nous avons imaginé et développé notre propre logiciel innovant, 100% adaptable et permettant de répondre très rapidement à tous les besoins que nous avons pu croiser au fil du temps, réduisant ainsi les coûts de développements et le temps de livraison.
